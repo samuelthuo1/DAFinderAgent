@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+pandas
+openpyxl
+fake-useragent
+playwright
+python-dotenv
+langchain 
+langchain-community 
+langchain-openai
+langchain-anthropic
+pydantic
+duckduckgo-search
